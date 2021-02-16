@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Daniela
-- 👀 I’m interested in Machine Learning
+- Hi, I’m Daniela
+- I’m interested in Machine Learning
 
 <!---
 dparedesh/dparedesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
